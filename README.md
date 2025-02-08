@@ -1,1 +1,1 @@
-# PL2025
+# Repositório da cadeira de Processamento de Linguagens
