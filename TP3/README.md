@@ -27,7 +27,7 @@
 - **Expressões regulares (`re.sub`)** para reconhecer e substituir os elementos do Markdown por suas versões em HTML.
 - **Função auxiliar para listas numeradas**, garantindo que múltiplos itens sejam corretamente encapsulados em `<ol>` e `<li>`.
 
-### Geração dos Resultados
+### Output
 - O código retorna uma string contendo o HTML formatado equivalente ao Markdown fornecido.
 - Pode ser utilizado para converter arquivos `.md` diretamente em `.html`.
 
